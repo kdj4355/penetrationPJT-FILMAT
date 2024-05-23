@@ -54,10 +54,6 @@
     - community
     
     - movies
-  
-  - ERD      
-
-![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-23-23-32-55-image.png)
 
 #### Front-end
 
@@ -65,19 +61,19 @@
   
   - final_pjt_front
 
-- 컴포넌트 구성도
-
-![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-23-23-32-41-image.png)
-
 ## 프로젝트 수행 결과
 
-- 추천 알고리즘을 통한 맞춤형 영화 추천<img src="file:///C:/Users/Joon/AppData/Roaming/marktext/images/2024-05-23-23-35-42-image.png" title="" alt="" width="494">
+- 추천 알고리즘을 통한 맞춤형 영화 리스트 추천
 
-- 상세 영화 페이지![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-23-23-38-23-image.png)
+- 영화 목록 캐러셀로 구성 (현재 상영중, 영화 전체, 인기TOP20, 평점TOP20)
 
-- 프로필 페이지![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-23-23-46-10-image.png)
+- 상세 영화 페이지, 상세 영화 배우 페이지 구현
 
-- AI chat bot 구현![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-23-23-49-55-image.png)
+- 상세 영화 페이지 리뷰 게시판 구현
+
+- 프로필 페이지 구현
+
+- AI chat bot 구현
 
 #### 목표 서비스 구현 정도
 
@@ -87,9 +83,7 @@
 
 #### 영화 추천 알고리즘에 대한 기술적 설명
 
-기본적으로 선호하는 장르를 선택했을 때 알고리즘이 작동되도록 구현을 하였고 추가적으로 좋아요한 영화배우 정보도 받아서 필터링 후 인기도 및 평점 기준으로 내림차순으로 정렬하여 추천한 영화 리스트를 출력하도록 구성하였습니다.
-
-![](C:\Users\Joon\AppData\Roaming\marktext\images\2024-05-24-00-18-29-image.png)
+기본적으로 선호하는 장르를 선택했을 때 알고리즘이 작동되도록 구현을 하였고 추가적으로 좋아요한 영화배우 정보도 받아서 필터링 후 인기도 및 평점 기준으로 내림차순으로 정렬하여 추천한 영화 리스트를 출력하도록 구성하였습니다. (첨부된 알고리즘 순서도 참고)
 
 # 느낀 점
 
